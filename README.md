@@ -1,2 +1,2 @@
 # House price predictions with clustering
- K-means and deep learning
+ K-means clustering and applying deep learning model to predict price
