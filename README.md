@@ -10,7 +10,7 @@ Summary
 
 ### Exploratory Data Analysis:
 
-![image](https://github.com/Richard-Shimada/House-price-predictions-with-clustering/blob/main/Data/bar graphs.png)
+![image](https://github.com/Richard-Shimada/House-price-predictions-with-clustering/blob/main/Data/bar_graphs.png)
 
 1. As expected, there is a higher mean population for 3-digit zips as they are a combination of many different 5-digit zip codes. On average, there are 37 5-digit zip codes per 3-digit zip (32,972/891).
 
