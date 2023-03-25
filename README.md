@@ -4,6 +4,7 @@
 
 ![image](https://github.com/Richard-Shimada/House-price-predictions-with-clustering/blob/main/Data/bar_graphs.png)
 
+
 1) Cluster 3 has the highest average sale price, Clusters 1 and 2 are lower but similar to each other, and finally Cluster 0 has the lowest average sale price.
 
 2) The typical metrics of Total Square feet, average bedrooms, and average bathrooms follow this same pattern seen in sale price.
@@ -12,6 +13,7 @@
 
 
 ![image](https://github.com/Richard-Shimada/House-price-predictions-with-clustering/blob/main/Data/lmplot.png)
+
 
 1) Cluster 3 has the largest 2nd floors that are increasing with newer builds. Cluster 3 also comprises the majority of new homes with larger 2nd floors. 
 
@@ -23,7 +25,8 @@
 
 5) Cluster 2 is distinct in that it has the most homes with no 2nd floor as indicated by the 0 values.
 
-RMSE of tuned model
+
+##RMSE of tuned model
 
 ![image](https://github.com/Richard-Shimada/House-price-predictions-with-clustering/blob/main/Data/RMSE_tuned_model.png)
 
