@@ -22,9 +22,10 @@ Summary
 
 
 
-![image](https://github.com/Richard-Shimada/US-Zip-Code-Analysis/blob/main/Data/lmplot.png)
+![image](https://github.com/Richard-Shimada/House-price-predictions-with-clustering/blob/main/Data/lmplot.png)
 
 
 Generally speaking, it is assumed that there would be a positive relationship between population size and the number of housing units needed. </br></br>This is confirmed by the above plot.
 
 
+![image](https://github.com/Richard-Shimada/House-price-predictions-with-clustering/blob/main/Data/RMSE_tuned_model.png)
