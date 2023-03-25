@@ -26,7 +26,7 @@
 5) Cluster 2 is distinct in that it has the most homes with no 2nd floor as indicated by the 0 values.
 
 
-##RMSE of tuned model
+## RMSE of tuned model:
 
 ![image](https://github.com/Richard-Shimada/House-price-predictions-with-clustering/blob/main/Data/RMSE_tuned_model.png)
 
