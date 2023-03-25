@@ -9,7 +9,7 @@
 
 2) The typical metrics of Total Square feet, average bedrooms, and average bathrooms follow this same pattern seen in sale price.
 
-3) One exception is Cluster 1 - these homes have a similar average Sale Price as Cluster 2 despite being smaller and having fewer bedrooms and bathrooms. By drilling down, I discovered that Cluster 1 has the largest deck and enclosed porches on average which helps explain the higher Sales Price.
+3) One exception is Cluster 1 - these homes have a similar average Sale Price as Cluster 2 despite being smaller and having fewer bedrooms and bathrooms. By drilling down, I discovered that Cluster 1 has the largest deck and enclosed porches on average which helps explain the higher Sales Price. </br>
 
 
 ![image](https://github.com/Richard-Shimada/House-price-predictions-with-clustering/blob/main/Data/lmplot.png)
@@ -23,10 +23,10 @@
 
 4) Cluster 1 is unique in that most of these homes are newer builds with smaller 2nd floors than Cluster 3.
 
-5) Cluster 2 is distinct in that it has the most homes with no 2nd floor as indicated by the 0 values.
+5) Cluster 2 is distinct in that it has the most homes with no 2nd floor as indicated by the 0 values. </br>
 
 
-# RMSE of tuned model:
+#### RMSE of tuned model:
 
 ![image](https://github.com/Richard-Shimada/House-price-predictions-with-clustering/blob/main/Data/RMSE_tuned_model.png)
 
